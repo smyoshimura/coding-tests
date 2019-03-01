@@ -1,0 +1,6 @@
+[
+{"_id":{"$oid":"5c7875105304783574f506d0"},"firstName":"John","lastName":"Doe","email":"johndoe@email.com","password":"johnpass","admin":false},
+{"_id":{"$oid":"5c787583d464de35749662a5"},"firstName":"Jane","lastName":"Doe","email":"janey@myemail.com","password":"janepass","admin":false},
+{"_id":{"$oid":"5c7875c6d464de35749662a6"},"firstName":"Kerry","lastName":"Smith","email":"ksmith1@email123.com","password":"pw123","admin":false},
+{"_id":{"$oid":"5c7878d8242785ba2a8827e6"},"firstName":"David","lastName":"Mitchell","email":"dm01@email.com","password":"mypw01","admin":true}
+]

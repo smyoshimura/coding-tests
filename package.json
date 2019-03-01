@@ -1,0 +1,23 @@
+{
+  "name": "coding-tests",
+  "version": "1.0.0",
+  "description": "A repository for coding assessments and exercises.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smyoshimura/coding-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smyoshimura/coding-tests/issues"
+  },
+  "homepage": "https://github.com/smyoshimura/coding-tests#readme"
+}
